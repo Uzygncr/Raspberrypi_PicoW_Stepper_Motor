@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}

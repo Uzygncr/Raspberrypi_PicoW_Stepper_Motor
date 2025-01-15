@@ -1,0 +1,14 @@
+# Target labels
+ picotool-populate
+# Source files and their labels
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate-complete.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update.rule

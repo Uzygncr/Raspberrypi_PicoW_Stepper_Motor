@@ -1,0 +1,5 @@
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool/picotool
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool/picotoolTargets.cmake
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool/picotoolTargets-release.cmake
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool/picotoolConfig.cmake
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool/picotoolConfigVersion.cmake

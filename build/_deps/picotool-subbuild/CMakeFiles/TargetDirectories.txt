@@ -1,0 +1,3 @@
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.dir
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool-subbuild/CMakeFiles/edit_cache.dir
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/_deps/picotool-subbuild/CMakeFiles/rebuild_cache.dir

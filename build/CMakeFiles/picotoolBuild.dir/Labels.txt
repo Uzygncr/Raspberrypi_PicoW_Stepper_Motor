@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/CMakeFiles/picotoolBuild
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/CMakeFiles/picotoolBuild.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/CMakeFiles/picotoolBuild-complete.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/uzygncr/pico/pico-projects/Raspberrypi_PicoW_Stepper_Motor/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule
